@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUoAc3mN84u3E7J3CYDKM7VyDOoEFgfSLPgTFnUHNO9E9yTmM2ZKVPe6XC/ziAZfox4o/xY5SyIsUE/Ji0u1Iw==",
+  "success": true,
+  "projectFilePath": "C:\\CursoUdemy\\erudio-microservices-dotnet6\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-MicroserviceonWebMicroservice\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.130.8.82/nugetserver/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
